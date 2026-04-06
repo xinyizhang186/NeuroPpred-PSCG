@@ -1,7 +1,7 @@
 # NeuroPred-PSCG
 
 This repository contains code for "**NeuroPpred-PSCG: A multimodal framework for neuropeptide prediction via bidirectional cross-attention and gated convolution of ProtT5 and structural features**.
-![image](https://github.com/xinyizhang186/NeuroPred-PSCG/model.png)
+![image](https://github.com/xinyizhang186/NeuroPpred-PSCG/blob/main/model.png)
 Please see our manuscript for more details.
 
 ## 1 Requirements
