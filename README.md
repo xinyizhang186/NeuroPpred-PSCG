@@ -23,7 +23,7 @@ pip install -r requirements.txt --no-cache-dir
 # 2 Running
 
 - **`dataset/`**: Ccomprises two folders, `NeuroP_data` and `NeuroP_feature`. Among these, the imbalanced dataset (*3755.txt*) comprises labels distributed as [1]409 + [0]2290+ [1]45+ [0]252+ [1]115+[0]644.
-- **`ProtT5/`**: Extracts ProtT5-based embeddings from protein sequences.
+- **`protT5/`**: Extracts ProtT5-based embeddings from protein sequences.
 - **`demo/`**: Provides example notebooks (train.ipynb and predict.ipynb) for model training and inference.
 - **`util/`**:
 - `csv_to_fasta.py`：Converts CSV files into FASTA format.
