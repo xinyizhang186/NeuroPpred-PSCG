@@ -27,7 +27,7 @@ pip install -r requirements.txt --no-cache-dir
 - **`demo/`**: Provides example notebooks (train.ipynb and predict.ipynb) for model training and inference.
 - **`util/`**:
 - `csv_to_fasta.py`：Converts CSV files into FASTA format.
-  - `data_loader.py`: Handles data loading and preprocessing.
+- `data_loader.py`: Handles data loading and preprocessing.
 - `util_metric.py`: Computes and evaluates model performance metrics.
 
 In addition, the main scripts and files are as follows:
